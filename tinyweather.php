@@ -1,6 +1,6 @@
 <?php
 /**
- * Module Name: Weather
+ * Module Name: Tiny Weather
  * Module ID: tinyweather
  * Description: Display the current weather, based on IP.
  * Version: 1.0
